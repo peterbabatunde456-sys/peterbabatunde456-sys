@@ -38,8 +38,7 @@
 
 <p align="center">
   
-![Pete's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterbabatunde456-sys&show_icons=true&theme=tokyonight)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=peterbabatunde456-sys&show_icons=true&theme=tokyonight&cache_seconds=86400)
 </p>
 ---
 
