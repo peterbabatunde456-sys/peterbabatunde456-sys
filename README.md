@@ -53,7 +53,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/peterbabatunde456-sys/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/peterbabatunde456-sys/peterbabatunde456-sys/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
